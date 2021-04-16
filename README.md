@@ -1,4 +1,4 @@
-# Biometry (biostatistics)
+# Biostatistics
 This class was taken in Fall 2020.
 
 Statistical Topics Covered:
