@@ -1,5 +1,5 @@
-# Biostatistics
-This class was taken in Fall 2020.
+# Biostatistics (R programming language)
+This class was taken in Fall 2020. 
 
 Statistical Topics Covered:
 * Course introduction; ground rules exercise; course expectations; review of basic concepts in Statistics I (sampling distributions) 
