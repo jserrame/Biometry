@@ -1,7 +1,7 @@
 # Biostatistics (R programming language)
 This class was taken in Fall 2020. 
 
-Statistical Topics Covered:
+Statistical topics covered:
 * Course introduction; ground rules exercise; course expectations; review of basic concepts in Statistics I (sampling distributions) 
 * Normal distribution, symmetry, kurtosis, Statistical hypothesis testing, coding, data transformations 
 * T-tests (one-sample, two-sample, paired), tests for equality of variance, Type I and Type II error, power and sample size
